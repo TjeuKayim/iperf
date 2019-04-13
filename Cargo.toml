@@ -1,0 +1,7 @@
+[package]
+name = "iperf"
+version = "0.1.0"
+authors = ["Tjeu Kayim <15987676+TjeuKayim@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
